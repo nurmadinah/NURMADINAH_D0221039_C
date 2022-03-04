@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class day14_Java_Strings_Introduction {
+public class day14_java_strings_introduction {
 
     public static void main(String[] args) {
         
